@@ -8,6 +8,7 @@ class Gitlyl2005ApplicationTests {
 
     @Test
     void contextLoads() {
+           int aaa=10;
     }
 
 }
